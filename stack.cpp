@@ -1,9 +1,10 @@
 #include<iostream>
+#include<cmath>
 using namespace std;
 
 int main ()
 {
 cout<<"tree";
-cout<<"hy"<<endl;
+cout<<"hy";
 return 0;
 }
